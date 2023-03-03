@@ -1,0 +1,15 @@
+{
+  "name": "auction-mall-server",
+  "version": "1.0.0",
+  "description": "Auction Mall Back-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "www.josiey.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
+}
